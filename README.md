@@ -1,4 +1,4 @@
-# Diary
+# Diary 
 Personal Diary of my Coding which is open to all.
 Starting My new journey towards a new thing(Web Development).
 - Posting this for two reasons
